@@ -151,11 +151,11 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Cosmos/5.0.4": {
+      "Microsoft.EntityFrameworkCore.Cosmos/5.0.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.Azure.Cosmos": "3.12.0",
-          "Microsoft.EntityFrameworkCore": "5.0.4"
+          "Microsoft.EntityFrameworkCore": "5.0.5"
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Cosmos.dll": {}
@@ -2105,7 +2105,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Cosmos": "5.0.4"
+          "Microsoft.EntityFrameworkCore.Cosmos": "5.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.5"
         },
         "compile": {
           "bin/placeholder/WWTravelClubDB.dll": {}
@@ -2329,17 +2330,17 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Cosmos/5.0.4": {
-      "sha512": "+pTxCo5OCDjpMY/G607LuT1ROEVNGbiKf9MZ/jsztfe+Kx68smz3zZwpyyswtrL4jq06Wu9KVYyXoCAwCjGt5A==",
+    "Microsoft.EntityFrameworkCore.Cosmos/5.0.5": {
+      "sha512": "z5KhlCvBfkxHoEsLSaQwz6nl8mE7nQEFylqmD28mcYfbTaTgW2XN+wJWUaSYQmIu3gxdSpmgBitgndoJp84UyQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.cosmos/5.0.4",
+      "path": "microsoft.entityframeworkcore.cosmos/5.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Cosmos.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Cosmos.xml",
-        "microsoft.entityframeworkcore.cosmos.5.0.4.nupkg.sha512",
+        "microsoft.entityframeworkcore.cosmos.5.0.5.nupkg.sha512",
         "microsoft.entityframeworkcore.cosmos.nuspec"
       ]
     },

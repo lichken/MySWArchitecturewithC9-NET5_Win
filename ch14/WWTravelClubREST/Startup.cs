@@ -35,6 +35,12 @@ namespace WWTravelClubREST
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
                  b => b.MigrationsAssembly("WWTravelClubDB")));
 
+            //services.AddDbContext<WWTravelClubDB.MainDBContext>(options =>
+            //    options.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=wwtravelclub;Trusted_Connection=True",
+            //     b => b.MigrationsAssembly("WWTravelClubDB")));
+
+            //services.AddDbContext<WWTravelClubDB.MainDBContext>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("WWWTravelClub", new OpenApiInfo

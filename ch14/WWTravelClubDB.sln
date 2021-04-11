@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWTravelClubDB", "WWTravelC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWTravelClubDBTest", "WWTravelClubDBTest\WWTravelClubDBTest.csproj", "{7FA439D3-7D5C-4E13-A2B0-9F93441D9368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWTravelClubREST", "WWTravelClubREST\WWTravelClubREST.csproj", "{182A9ABB-9802-4B97-9D5E-E4E83DD96345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWTravelClubREST", "WWTravelClubREST\WWTravelClubREST.csproj", "{182A9ABB-9802-4B97-9D5E-E4E83DD96345}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
