@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZ6HyvY172bivWazbzBsOMQU5plU7PsU/z5zjXADVES3BJkCL8pH+cRR2TThGVb8jtWvKB9mA5F0/Q1VZTgOcg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\DotNet\\SoftwareArchCSharp9Net5_Win\\ch12\\PackagesManagement\\PackagesManagement\\PackagesManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kclie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\kclie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
